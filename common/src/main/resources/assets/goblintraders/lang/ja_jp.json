@@ -1,13 +1,13 @@
 {
-    "entity.goblintraders.goblin_trader": "ゴブリン行商人",
-    "entity.goblintraders.vein_goblin_trader": "溶岩ゴブリン行商人",
-    "subtitle.goblintraders.goblin_trader.annoyed_grunt": "ゴブリンのうめき声",
-    "subtitle.goblintraders.goblin_trader.idle_grunt": "ゴブリンの声",
-    "item.goblintraders.goblin_trader_spawn_egg": "ゴブリン行商人のスポーンエッグ",
-    "item.goblintraders.vein_goblin_trader_spawn_egg": "溶岩ゴブリン行商人のスポーンエッグ",
+    "entity.goblintraders.goblin_trader": "ゴブリンの行商人",
+    "entity.goblintraders.vein_goblin_trader": "鉱脈ゴブリンの行商人",
+    "subtitle.goblintraders.goblin_trader.annoyed_grunt": "イライラした唸り声",
+    "subtitle.goblintraders.goblin_trader.idle_grunt": "唸り声",
+    "item.goblintraders.goblin_trader_spawn_egg": "ゴブリンの行商人のスポーンエッグ",
+    "item.goblintraders.vein_goblin_trader_spawn_egg": "鉱脈ゴブリンの行商人のスポーンエッグ",
     "stat.goblintraders.trade_with_goblin": "ゴブリンと取引した回数",
-    "custom.goblintraders.tuned": "Goblin Tuned",
-    "custom.goblintraders.lore": "A special item reengineered by the goblin with enhanced attributes",
-    "custom.goblintraders.moon_boots": "Moon Boots",
-    "custom.goblintraders.mystery_map": "Mystery Map"
+    "custom.goblintraders.tuned": "ゴブリン加工",
+    "custom.goblintraders.lore": "ゴブリンによって再設計され、強化が施された特別なアイテム",
+    "custom.goblintraders.moon_boots": "月のブーツ",
+    "custom.goblintraders.mystery_map": "謎の地図"
 }
